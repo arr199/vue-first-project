@@ -9,6 +9,7 @@ const itemList = [
   { id: 4, name: 'Item 4' },
   { id: 5, name: 'Item 5' },
 ];
+
 </script>
 
 <template>
