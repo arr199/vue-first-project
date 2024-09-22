@@ -7,6 +7,6 @@ export const state = reactive({
   },
   incrementCounter() {
     if (this.formData.input === "") return;
-    this.counter += parseInt(this.formData.input);
+    this.counter +=  parseInt(this.formData.input);
   },
 });
